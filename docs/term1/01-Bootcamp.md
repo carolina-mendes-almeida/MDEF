@@ -4,7 +4,7 @@ hide:
 ---
 
 # Bootcamp
-![](images/imagemposter.png)
+![](images/poster/imagemposter.png)
 
 “What is your fight?”
 My fight is collaboration.
