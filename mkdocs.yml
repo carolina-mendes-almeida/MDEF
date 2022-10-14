@@ -16,6 +16,7 @@ nav:
   - Reflections :
       - Term 1:
           - bootcamp: term1/01-Bootcamp.md
+          - fight: term1/My-Fight
           - aws: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
