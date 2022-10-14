@@ -1,7 +1,7 @@
 # About
 
-![me at bar torres](images/bartorres1.jpeg)
+![me at bar torres](images/MT01/bartorres1.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In one single word, I am a cross-pollinator, always establishing connections between different disciplines. With a background in biology, I hope to build connections with design, develop practices that challenge the social status quo, and mitigate the monoculture of Nature and the mind.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
