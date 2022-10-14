@@ -20,6 +20,7 @@ nav:
             - vision: term1/bootcamp/vision.md
           - aws:
             - card experiment: term1/aws/02-Atlas of Weak Signals.md
+            - RtD: term1/aws/research-through-design.md
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
