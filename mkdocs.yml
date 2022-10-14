@@ -16,8 +16,8 @@ nav:
   - Reflections:
       - Term 1:
           - bootcamp:
-            - poster: term1/01-Bootcamp.md
-            - vision: term1/vision.md
+            - poster: term1/bootcamp/01-Bootcamp.md
+            - vision: term1/bootcamp/vision.md
           - aws:
             - card experiment: term1/02-Atlas of Weak Signals.md
       - Term 2:
