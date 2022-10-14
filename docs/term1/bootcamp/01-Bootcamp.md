@@ -9,7 +9,9 @@ hide:
 ![poster of my fight](images/imagemposter.png)
 
 “What is your fight?”
+
 My fight is collaboration.
+
 
 The word fight has many meanings depending on the context, but for me, the fittest
 to this first assignment was: “to work hard to defeat, end, or prevent something”. I
