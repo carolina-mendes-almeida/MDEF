@@ -10,6 +10,7 @@ hide:
 >
 
 ![cycle of interests](images/aows/mycycle.png)
+
 My fight is as much about collaboration as it is about listening. It is not only diplomatic, but it is also the recipe for questioning and curiosity. That is the main reason why this week (AoWS) was so dear to me because being present, observant and listening to the signs around us were the main requisites and relate to my natural state the most.
 
 *Find the connections. They are trying to tell you something.*
