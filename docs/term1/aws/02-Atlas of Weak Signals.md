@@ -33,6 +33,6 @@ On my first try these were the cards I had to connect for a hypothetical design 
 3. Food and farming can be our tools to get to the end goal of building a better relationship with our own life cycle by being surrounded by nature and respecting food/plants/ and their natural life cycles.
 4. Cities are where the relationship with nature is the most fragile and distant.
 
-**The outcome of the 1st launch of cards:** Let's create spaces in cities where people can break the mold of ageism for themselves and future generations.
+**A possible outcome of the 1st launch of cards:** Create spaces/initiatives in cities where people can break the mold of ageism for themselves and future generations trough permaculture/urban agriculture.
 
 ![](../images/MT01/scorpio_blow.jpg)
