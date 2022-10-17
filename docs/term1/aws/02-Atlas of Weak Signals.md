@@ -11,7 +11,7 @@ From the AoWS deck, we used 3 types of cards: 1) Weak Signals; 2) Areas of oppor
 
 On my first try these were the cards I had to connect for a hypothetical design intervention/project:
 
-![tool kit to acquire knowledge](images/aows/aows3.jpg)
+![image of the random cards aows](images/aows/aows3.jpg)
 
 *Weak Signals*
 
