@@ -15,12 +15,12 @@ nav:
       - Initial ideas: project/project.md
   - Reflections:
       - Term 1:
-          - bootcamp:
-            - poster: term1/bootcamp/01-Bootcamp.md
-            - vision: term1/bootcamp/vision.md
-          - aws:
-            - card experiment: term1/aws/02-Atlas of Weak Signals.md
-            - map of resources: term1/aws/map-of-resources.md
+          - Bootcamp:
+            - Poster: term1/bootcamp/01-Bootcamp.md
+            - Vision: term1/bootcamp/vision.md
+          - AoWS:
+            - Card Experiment: term1/aws/02-Atlas of Weak Signals.md
+            - Map of Resources: term1/aws/map-of-resources.md
             - RtD: term1/aws/research-through-design.md
       - Term 2:
           - digi: term1/01-Bootcamp.md
