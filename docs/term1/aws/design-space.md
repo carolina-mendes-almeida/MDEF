@@ -21,7 +21,7 @@ My fight is as much about collaboration as it is about listening. It is not only
 
 2. Inter-species collaboration
 
-    It is about welcoming non-human species into our spaces. The
+    It is about welcoming non-human species into our spaces. Increasing ecosystem services and biodiversity through co-habitation, Bio Design, and/or symbiotic relationships.
 
 
 **Its synergies rely on:**
