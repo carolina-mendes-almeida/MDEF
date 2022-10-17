@@ -8,9 +8,9 @@ hide:
 
 ![poster of my fight](../images/imagemposter.png)
 
-“What is your fight?”
+**“What is your fight?”**
 
-My fight is collaboration.
+                                                  **My fight is collaboration.**
 
 
 The word fight has many meanings depending on the context, but for me, the fittest
@@ -36,19 +36,19 @@ symbiotic relations between humans and non-humans, distancing ourselves from the
 monoculture of the mind, spaces and nature. Through this program, I want to design
 interventions that challenge the eco-apartheid we’ve been living in.
 
-Visual notes and significance:
+**Visual notes and significance**
 
-Statuette (past) - It is a symbol of Angolan culture. “The thinker” is of Chokwe origin
+**Statuette (past)** - It is a symbol of Angolan culture. “The thinker” is of Chokwe origin
 (Angolan ethnic group) and it represents the elders and wise ones of a community.
 These leaders have the costume of listening to the rest of the village before
 presenting their arguments or points of view, a diplomatic approach I admire and try
 to apply whenever necessary.
 
-Keywords (present) - the words surrounding the statuette show my (intellect)state
+**Keywords (present)** - the words surrounding the statuette show my (intellect)state
 and positioning when starting a new project. These keywords are representative of
 me at this point in time (October 2022).
 
-Marine life (future) - Represents an ecological succession. In this collage, an
+**Marine life (future)** - Represents an ecological succession. In this collage, an
 “ecosystem” is in development. With the passage of time, more life will bloom around
 the statuette. At the end of the program a full ecosystem is grown, parallel to my own
 path, more skills and interests will enrich the space around it.
