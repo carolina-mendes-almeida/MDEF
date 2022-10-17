@@ -9,6 +9,7 @@ hide:
 (Potawatomi author, ‘Braiding Sweetgrass’)**
 >
 
+![cycle of interests](images/aows/mycycle.png)
 My fight is as much about collaboration as it is about listening. It is not only diplomatic, but it is also the recipe for questioning and curiosity. That is the main reason why this week (AoWS) was so dear to me because being present, observant and listening to the signs around us were the main requisites and relate to my natural state the most.
 
 *Find the connections. They are trying to tell you something.*
@@ -32,4 +33,4 @@ My fight is as much about collaboration as it is about listening. It is not only
     - Turn ecological assessments into design interventions
     - Bio Design to increase species diversity
 
-![tool kit to acquire knowledge](images/toolkit3.png)
+![design space in class vs digital](images/aows/designspace1.png)
