@@ -20,7 +20,7 @@ nav:
             - Vision: term1/bootcamp/vision.md
           - AoWS:
             - Card Experiment: term1/aws/02-Atlas of Weak Signals.md
-            - Design Space: term1/aws/design-space.md  
+            - Design Space: term1/aws/design-space.md
             - Map of Resources: term1/aws/map-of-resources.md
             - RtD: term1/aws/research-through-design.md
       - Term 2:
@@ -48,7 +48,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: lime
+    primary: white
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
