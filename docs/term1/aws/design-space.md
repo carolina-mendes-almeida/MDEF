@@ -16,9 +16,11 @@ My fight is as much about collaboration as it is about listening. It is not only
 **My two main cards are:**
 
 1. Imagining Futures that are non-western centric
+
     It is about welcoming traditional knowledge, fighting for racial equality, decolonizing research, decolonizing ways of thinking, and deliberately opening space for BIPOC voices.
 
 2. Inter-species collaboration
+
     It is about welcoming non-human species into our spaces. The
 
 
