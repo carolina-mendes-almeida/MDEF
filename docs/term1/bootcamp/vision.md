@@ -5,4 +5,4 @@ hide:
 
 # Bootcamp
 VISION AND PERSONAL DEVELOPMENT SEMINARS
-![vison for personal development](../images/aows/vision.png)
+![vison for personal development](images/aows/vision.png)
