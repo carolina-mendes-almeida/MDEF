@@ -6,6 +6,4 @@ hide:
 # Map of resources
 **Mapping the avaiable tools**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![](../images/MT01/scorpio_blow.jpg)
+In these last 2 weeks, we explored the spaces and respective communities around IAAC and Poblenou. Those that related the most to my vision are included in the linked document. Because I need a digital tool that can be easily updated I have decided to create this database and every week will have new entries, with projects, associations, contacts, and/or spaces I will come to know: https://docs.google.com/spreadsheets/d/1_nlVUHvFYTKV7HbV9jh3RWcdcaP_eJOP_L2g5gmRZNk/edit?usp=sharing
