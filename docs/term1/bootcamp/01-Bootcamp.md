@@ -10,7 +10,7 @@ hide:
 
 **“What is your fight?”**
 
-                                                  **My fight is collaboration.**
+**My fight is collaboration.**
 
 
 The word fight has many meanings depending on the context, but for me, the fittest
