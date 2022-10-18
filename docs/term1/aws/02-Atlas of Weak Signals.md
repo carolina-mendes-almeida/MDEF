@@ -15,6 +15,7 @@ On my first try these were the cards I had to connect for a hypothetical design 
 
 ![image of the random cards aows](../../images/aows/aows3.jpg)
 
+**THE CARDS**
 *Weak Signals*
 1. Long-terminism
 2. Disrupt ageism
@@ -25,6 +26,7 @@ On my first try these were the cards I had to connect for a hypothetical design 
 
 *Areas of opportunity*
 1. Cities
+
 
 **My thought process:**
 
