@@ -21,9 +21,9 @@ My fight is as much about collaboration as it is about listening. It is not only
 
     It is about welcoming traditional knowledge, fighting for racial equality, decolonizing research, decolonizing ways of thinking, and deliberately opening space for BIPOC voices.
 
-    2. Inter-species collaboration
+2. Inter-species collaboration
 
-        It is about welcoming non-human species into our spaces. Increasing ecosystem services and biodiversity through co-habitation, Bio Design, and/or symbiotic relationships.
+    It is about welcoming non-human species into our spaces. Increasing ecosystem services and biodiversity through co-habitation, Bio Design, and/or symbiotic relationships.
 
 
     **Its synergies rely on:**
