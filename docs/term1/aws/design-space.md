@@ -34,4 +34,4 @@ My fight is as much about collaboration as it is about listening. It is not only
     - Turn ecological assessments into design interventions
     - Bio Design to increase species diversity
 
-![design space in class vs digital](images/aows/designspace1.png)
+![design space in class vs digital](../../images/aows/designspace1.png)

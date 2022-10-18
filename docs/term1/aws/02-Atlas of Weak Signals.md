@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-![image at Jardin Mariposa](images/aows/aows1.jpg)
+![image at Jardin Mariposa](../../images/aows/aows1.jpg)
 
 For the introduction to the card game Atlas of Weak Signals (AoWS) Mariana Quintero took us to Jardin de las Mariposas (near IAAC). To play a game by scanning connections through societal triggers was like making sense of the chaos in 30min. At the same time, we were collecting vocabulary to speak our interests into existence. I see how this can be helpful when mapping/looking for partners, as it is easier to find your "tribe" when you know the words they go by.
 
@@ -13,7 +13,7 @@ From the AoWS deck, we used 3 types of cards: 1) Weak Signals; 2) Areas of oppor
 
 On my first try these were the cards I had to connect for a hypothetical design intervention/project:
 
-![image of the random cards aows](images/aows/aows3.jpg)
+![image of the random cards aows](../../images/aows/aows3.jpg)
 
 *Weak Signals*
 1. Long-terminism

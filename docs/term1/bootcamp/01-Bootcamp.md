@@ -6,7 +6,7 @@ hide:
 # Bootcamp
 
 
-![poster of my fight](../images/imagemposter.png)
+![poster of my fight](../../images/imagemposter.png)
 
 **“What is your fight?”**
 
