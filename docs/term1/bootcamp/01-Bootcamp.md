@@ -5,9 +5,6 @@ hide:
 
 # Bootcamp
 
-
-![poster of my fight](images/imagemposter.png)
-
 **“What is your fight?”**
 
 **My fight is collaboration.**
@@ -35,6 +32,8 @@ To admire Nature is to celebrate diversity. I hope to bring harmony and increase
 symbiotic relations between humans and non-humans, distancing ourselves from the
 monoculture of the mind, spaces and nature. Through this program, I want to design
 interventions that challenge the eco-apartheid we’ve been living in.
+
+![poster of my fight](../../images/aows/imagemposter.png)
 
 **Visual notes and significance**
 
