@@ -11,11 +11,11 @@ This week was filled with information (heavy) but it leveled the plane when it c
 
 Every element in the universe originated at this point in time and space: Big Bang. The beginning of this class was a journey through a cosmic calendar.
 
-Reminded me of a very interesting way of addressing geological time by the ***astrophysicist*** Neil deGrasse Tyson: [https://www.youtube.com/watch?v=Bl-s4tqR8Bc](https://www.youtube.com/watch?v=Bl-s4tqR8Bc)
+Reminded me of a very interesting way of addressing geological time by the astrophysicist Neil deGrasse Tyson: [https://www.youtube.com/watch?v=Bl-s4tqR8Bc](https://www.youtube.com/watch?v=Bl-s4tqR8Bc)
 
 **1 - Life on Earth**
 
-Life is carbon-based. The first major transition was the leap from the molecular scale to the microbiology scale, this scaling up continues to form complex systems and communication networks until it took us into the realm of cultural evolution (designers normally operate here). At this point, *Homo sapiens* have been the most prominent agents of change on the Earth’s surface, making our way into the name of the Epoch: Anthropocene. 
+Life is carbon-based. The first major transition was the leap from the molecular scale to the microbiology scale, this scaling up continues to form complex systems and communication networks until it took us into the realm of cultural evolution (designers normally operate here). At this point, *Homo sapiens* have been the most prominent agents of change on the Earth’s surface, making our way into the name of the Epoch: Anthropocene.
 
 **1.1 - After the trigger of “Life on Earth”**
 
