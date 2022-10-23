@@ -19,14 +19,19 @@ On my first try these were the cards I had to connect for a hypothetical design 
 **THE CARDS**
 
 *Weak Signals*
+
 1. Long-terminism
+
 2. Disrupt ageism
 
 *Random Triggers*
+
 1. Food/Agro computing
+
 2. Farm Academy
 
 *Areas of opportunity*
+
 1. Cities
 
 
