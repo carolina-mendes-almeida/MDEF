@@ -2,4 +2,7 @@
 
 ![](../images/perezoso.jpg)
 
-Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> If you have built a perfect demonstration do not remove all traces of the scaffolding by which you have raised it. **- *Clark Maxwell***
+>
+
+This is my digital research notebook. It will consist of a record of procedures, background research, exploratory research, thought process registration, materials and projects that made up my academic year at IAAC as a 22/23 MDEF student. 
