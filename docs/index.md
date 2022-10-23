@@ -1,6 +1,6 @@
 ## Welcome
 
-![](../../images/welcomebanner.png)
+![welcome banner](../../images/welcomebanner.png)
 
 > If you have built a perfect demonstration do not remove all traces of the scaffolding by which you have raised it. **- *Clark Maxwell***
 >
