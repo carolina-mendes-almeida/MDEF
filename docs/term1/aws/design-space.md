@@ -36,7 +36,8 @@ My fight is as much about collaboration as it is about listening. It is not only
 
 ![design space in class vs digital](../../images/aows/designspace1.png)
 
-**DESIGN SPACE THROUGH OUT TIME**
+**DESIGN SPACE THROUGH OUT TIME -------------------------------------------------------------------**
+
 ![design space in class vs digital](../../images/bioagri/designspace2.png)
 -----------------------------------------------------------------------------------------------------
-![design space in class vs digital](../../images/bioagri/designspace2.png)
+![design space in class vs digital](../../images/bioagri/designspace3.png)
