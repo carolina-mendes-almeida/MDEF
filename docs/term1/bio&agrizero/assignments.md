@@ -34,3 +34,21 @@ How we answer these questions has the potential of shaping our biomes and the ea
 
 > *“It’s a similar kind of ambitious, engineering-focused, team-based target that President Kennedy set when he declared we would put a person on the moon within a decade. The scientific challenges of this project are considerable but ultimately surmountable. The bioethical dimensions are paramount. The execution will no doubt be daunting. However, we owe it to science, to humankind, to our fellow species, and to our planet to try.”* **- George Church, 15th November 2021**
 >
+
+- **Bibliography**
+
+    Global Biodiversity Outlook 5 (2020). Secretariat of the Convention on Biological Diversity, Montréal.
+
+    Jørgensen, D. (2013). Reintroduction and de-extinction. BioScience, 63 (9), 719-720.
+
+    Wang, Y., Pedersen, M. W., Alsos, I. G., De Sanctis, B., Racimo, F., Prohaska, A., ... & Willerslev, E. (2021). Late Quaternary dynamics of Arctic biota from ancient environmental genomics. Nature, 600 (7887), 86-92.
+
+    Dehasque, M., Pečnerová, P., Muller, H., Tikhonov, A., Nikolskiy, P., Tsigankova, V. I., ... & Lister, A. M. (2021). Combining Bayesian age models and genetics to investigate population dynamics and extinction of the last mammoths in northern Siberia. Quaternary Science Reviews, 259, 106913.
+
+    Robert, A., Thévenin, C., Princé, K., Sarrazin, F., & Clavel, J. (2017). De‐extinction and evolution. Functional Ecology, 31 (5), 1021-1031.
+
+    Enk J, Devault A, Widga C, Saunders J, Szpak P, Southon J, Rouillard J-M, Shapiro B, Golding GB, Zazula G, Froese D, Fisher DC, MacPhee RDE and Poinar H (2016) Mammuthus Population Dynamics in Late Pleistocene North America: Divergence, Phylogeography, and Introgression. Front. Ecol. Evol. 4:42. doi: 10.3389/fevo.2016.00042
+
+    Ping, C. L., Jastrow, J. D., Jorgenson, M. T., Michaelson, G. J., & Shur, Y. L. (2015). Permafrost soils and carbon cycling. Soil, 1(1), 147-171.
+
+    Zimov, N. S., Zimov, S. A., Zimova, A. E., Zimova, G. M., Chuprynin, V. I., & Chapin III, F. S. (2009). Carbon storage in permafrost and soils of the mammoth tundra‐steppe biome: Role in the global carbon budget. Geophysical Research Letters, 36(2).
