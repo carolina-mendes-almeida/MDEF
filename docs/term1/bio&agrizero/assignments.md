@@ -5,4 +5,4 @@ hide:
 
 # Bio & Agri Zero
 
-                ![fav photo](../../images/bioagri/fav.photo.gif)
+![fav photo](../../images/bioagri/favphoto.mp4)
