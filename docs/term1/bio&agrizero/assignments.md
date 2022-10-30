@@ -5,4 +5,4 @@ hide:
 
 # Bio & Agri Zero
 
-**Assignments**
+![fav photo](../../images/bioagri/favphoto.mp4)
