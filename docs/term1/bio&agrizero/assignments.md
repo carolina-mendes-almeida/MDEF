@@ -10,7 +10,7 @@ hide:
 After designing the perfect medium for different types of microorganisms we had to “hunt” them around IAAC (1). I was thinking of how I could get the most out of my medium when I found abandoned basil plants (2) casually hanging out just beside some bikes at Fablab. Sitting on top of the plant cuticle there were black dots. These are probably bug feces, and if so, they are thriving with life. I wonder what 24h in an incubator can reveal (3)…
 
 ![fav photo + environment](../../images/bioagri/environment.gif)
-                              [I - the vibrant environment in the improvised MDEF bio lab for the last 2 weeks; II - my favorite photo of the last 2 weeks, showcasing the vibrant environment we created for unknown microorganisms.]
+                              [I - the vibrant environment in the improvised MDEF bio lab for the last 2 weeks; II - my favorite photo of the last 2 weeks, showcasing the environment we designed for the growth of microorganisms.]
 
 
 
