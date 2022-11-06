@@ -4,14 +4,14 @@ hide:
 ---
 
 # Living With Your Ideas
-
+![clay gif](../../images/clay/clay.gif)
 For living with your own ideas week I wanted to materialize my design space as I had never tried to bring the world of ideas into the present. By looking at the design space I’ve been creating, I noticed this subconscious interest in clay and natural materials that can potentially bridge or fill gaps in nature-deprived urban landscapes. I started exploring myself and my surrounding as bioreceptive environments and how I could bring that to fruition for 24h. I bought natural clay. Picked leaves from nearby trees and bushes. And got to know the flora of my neighborhood without relying on taxonomy, just feeling textures, shapes and registering their locations in hopes I could document without losing the bond I created when researching *in situ*.
 
 Being grounded in the present and involved led me to notice how birds' and insects' locations didn't always intersect. And, to my own amazement different locations had different sets of plants! I pass by these plants every day and did not realize someone had put some thought into them. The playground had leaves with larger surface areas (shadow), the diagonal to Glóries had plants with small leaves and trichomes (more resistant to pollution and drought), near spaces with benches you could find bushes with blooming flowers (pleasent sights), …
 
 I didn't wear gloves to pick the leaves and some had spikes, trichomes (microscopic hairs), flowers, sharpness, softness, and thickness. By choosing to decal the leaves into clay, the shape and textures of the leaves can be felt with detail. An excel sheet, photo, or VR software would lack this information. I had never thought about this lack before. How could we make this information available to people? How important are these inputs when it comes to raising conservation awareness? What if people could feel the skin of a white rhino, would that change their actions? To what extent the global consciousness of the natural world would change? Could it be a crucial piece in establishing rights for non-human species with the same depth that we have for the Homo sapiens?
 
-![poster of my fight](../../images/clay/clay5.png)
+![clay images](../../images/clay/clay5.png)
 
 **Moving away from the excel sheet, at least just for a moment.**
 
