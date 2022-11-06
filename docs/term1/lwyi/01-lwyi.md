@@ -22,7 +22,7 @@ When you involve yourself you are more empathetic, materialist, visceral, and aw
 
 By adding coffee grounds (waste) to the clay the porosity of the material is increased. This might be helpful for certain ecological artifacts, ex. ollas. So I took this opportunity to try and incorporate this element into natural clay as another physical experiment inspired by my digital design space.
 
-1. collect coffee grounds (from 2 french presses)
+1. collect coffee grounds
 2. dry the collected coffee grounds (microwaved for 2min.)
 3. incorporate into the clay
 4. add the necessary water
