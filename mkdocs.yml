@@ -27,6 +27,8 @@ nav:
             - Theory: term1/bio&agrizero/theoryweek1.md
             - Lab Notes: term1/bio&agrizero/labnotes.md
             - Assignments: term1/bio&agrizero/assignments.md
+          - Living With Your Ideas:
+              - LWYI - Clay Tablet: term1/lwyi/01-lwyi.md
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
