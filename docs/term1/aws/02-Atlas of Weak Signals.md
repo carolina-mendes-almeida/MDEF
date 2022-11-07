@@ -16,6 +16,7 @@ On my first try these were the cards I had to connect for a hypothetical design 
 ![image of the random cards](../../images/aows/aows3.jpg)
 
 
+
 **THE CARDS**
 
 *Weak Signals*
