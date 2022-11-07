@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Carolina Almeida - MDEF & Fab Lab Barcelona
+site_name: Carolina Almeida
 site_description: Master in Design for Emergent Futures
 site_author: Carolina Almeida
 copyright: Copyleft 2021 "Carolina Almeida" - GNU Free Documentation License
@@ -58,7 +58,7 @@ theme:
     accent: white
   font:
     # See available fonts at https://fonts.google.com/
-    text: EB Garamond
+    text: Crimson Text
     code: Cutive Mono
   icon:
     logo: material/memory
