@@ -58,7 +58,7 @@ theme:
     accent: black
   font:
     # See available fonts at https://fonts.google.com/
-    text: Cutive Mono
+    text: EB Garamond
     code: Cutive Mono
   icon:
     logo: material/memory
