@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Living With Your Ideas
+# Tech Beyond the Myth
 
 These two weeks were dedicated to exploring FabLab tools and community, deconstructing pre-acquired knowledge or stigmas that kept knowledge h
 idden, building fast prototyping skills, and understanding the politics of technology and inquiry about the tech industry.
