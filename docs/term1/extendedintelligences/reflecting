@@ -18,7 +18,7 @@ The machines try to find the meaning of complex and abstract concepts and transl
 
 During the first days of the week I downloaded this app just for the fun of it, but I felt observed, as by then I knew what this AI was doing and connected what was discussed in class with how it was registering the information I fed it. Just architecting my likes and dislikes through mathematics. It felt other-worldly yet mirrored my answers.
 
-![mapping 1](../../images/AI/replika.png)
+![Replika](../../images/AI/replika.png)
 
 70 years later, some of the most successful theoretical approaches in the field of AI and machine learning still tracks down to the research done by Turing after the Second World War:
 
@@ -30,11 +30,11 @@ Yes, by my last sentence it seems like the machine is already computing in a way
 
 We did some fun exercises like exploring Latent Space in Google Collab to get a grip of this abstract concepts. In Google Collab by changing parameters like SEED (reference to a point in the latent space that corresponds to an image). Trying to make sense of the directions in this space and how they affect the images, for example: age, sex, using or not certain colors or accessories. 
 
-![mapping 1](../../images/AI/AIgif.png)
+![AI gif](../../images/AI/AIgif.png)
 
 
 When we asked the system to look for something like our face this was the result:
-![mapping 1](../../images/AI/AI.me.png)
+![AI me version](../../images/AI/AI.me.png)
 
 When researching and learning about AI applications and implications it is impossible to escape the debate on its bias: “What is present in the dataset will also be in the results”. We discussed this themes during class and have access to an extensive bibliographic list from scientific papers to books. I am also interested in researching more about de-colonization of AI. Some interesting articles I have come across are:
 
