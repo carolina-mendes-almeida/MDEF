@@ -1,6 +1,0 @@
----
-hide:
-    - toc
----
-
-# Design Studio
