@@ -33,4 +33,4 @@ In a world where there is an app for everything, why not have one for farting? W
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUQsaPo_0&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUQsaPo_0&#x2F;view?utm_content=DAFUQsaPo_0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Can I fart? Report</a> by Carolina Almeida
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUQsaPo_0&#x2F;view?utm_content=DAFUQsaPo_0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Can I fart? Report</a>
