@@ -16,6 +16,7 @@ nav:
       - Term 1:
           - Design Studio I:
             - Projects: term1/designstudio/projects.md
+            - RtD: term1/designstudio/research-through-design.md
           - Bootcamp:
             - Poster: term1/bootcamp/01-Bootcamp.md
             - Vision: term1/bootcamp/vision.md
@@ -23,7 +24,6 @@ nav:
             - Card Experiment: term1/aws/02-Atlas of Weak Signals.md
             - Design Space: term1/aws/design-space.md
             - Map of Resources: term1/aws/map-of-resources.md
-            - RtD: term1/aws/research-through-design.md
           - Bio & Agri Zero:
             - Theory: term1/bio&agrizero/theoryweek1.md
             - Lab Notes: term1/bio&agrizero/labnotes.md
