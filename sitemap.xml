@@ -31,11 +31,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/aws/research-through-design/</loc>
-         <lastmod>2022-12-17</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/bio%26agrizero/assignments/</loc>
          <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +62,11 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/designstudio/projects/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/designstudio/research-through-design/</loc>
          <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
