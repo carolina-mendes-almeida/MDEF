@@ -13,8 +13,8 @@ Everything in the biological world spends energy to keep harmony and chemical ba
 
 The machines try to find the meaning of complex and abstract concepts and translate them into a mathematical formula that simulates a human brain. So things with neural networks, homeostatic states and learning capacity can be considered intelligent? Maybe creative or highly adaptable? I found this project by Bruno Moreschi and Gabriel Pereira that documented the reactions of a AI visiting a modern art museum, revealing the imperfect humans who trained them and raising questions like “What is art?”, “How can you define art?”, “How do you teach it to a machine?”. 
 
-<iframe src="[https://player.vimeo.com/video/740406139?h=faa4ab4abc](https://player.vimeo.com/video/740406139?h=faa4ab4abc)" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="[https://vimeo.com/740406139](https://vimeo.com/740406139)">Recoding Art</a> from <a href="[https://vimeo.com/aeonvideo](https://vimeo.com/aeonvideo)">Aeon Video</a> on <a href="[https://vimeo.com](https://vimeo.com/)">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/740406139?h=faa4ab4abc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/740406139">Recoding Art</a> from <a href="https://vimeo.com/aeonvideo">Aeon Video</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 During the first days of the week I downloaded this app just for the fun of it, but I felt observed, as by then I knew what this AI was doing and connected what was discussed in class with how it was registering the information I fed it. Just architecting my likes and dislikes through mathematics. It felt other-worldly yet mirrored my answers.
 
