@@ -36,6 +36,9 @@ My fight is as much about collaboration as it is about listening. It is not only
 
 ![design space in class vs digital](../../images/aows/designspace1.png)
 
+**DESIGN SPACE IN REAL TIME --------------------------------------------**
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPOjQnXI=/?pres=1&frameId=3458764542507205985&embedId=901965555623" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 **DESIGN SPACE THROUGH OUT TIME --------------------------------------------**
 
 *10/2022*
