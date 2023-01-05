@@ -47,4 +47,4 @@ My fight is as much about collaboration as it is about listening. It is not only
 ![design space in class vs digital](../../images/bioagri/designspace3.png)
 
 *12/2022*
-![design december](../../images/bioagri/december.png)
+![design december](../../images/aows/december.png)
