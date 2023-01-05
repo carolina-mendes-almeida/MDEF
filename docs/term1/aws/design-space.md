@@ -38,7 +38,10 @@ My fight is as much about collaboration as it is about listening. It is not only
 
 **DESIGN SPACE THROUGH OUT TIME --------------------------------------------**
 
-*24/10/2022*
+*10/2022*
 ![design space in class vs digital](../../images/bioagri/designspace2.png)
 -----------------------------------------------------------------------------------------------------
 ![design space in class vs digital](../../images/bioagri/designspace3.png)
+
+*12/2022*
+![design december](../../images/bioagri/december.png)
