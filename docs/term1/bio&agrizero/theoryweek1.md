@@ -19,6 +19,12 @@ Life is carbon-based. The first major transition was the leap from the molecular
 
 Complex systems were introduced by Nuria through Aristotle's quote: "The whole is more than the sum of its parts”. A few days before this class, Paige (one of our colleagues) recommended me an Invisibilia podcast episode about biological scales and it adds a new branch to this idea of complex systems, that as a self-proclaimed cross-pollinator, can be very helpful in developing new approaches to design.
 
-The image represents side by side a scale in meters and the respective areas of knowledge. These worlds are all connected and full of opportunities they are just operating on different scales.
+![image scales 1](../../images/bioagri/scales2.png)
+*The image represents side by side a scale in meters and the respective areas of knowledge. These worlds are all connected and full of opportunities they are just operating on different scales.*
 
+
+**"Even though these systems are so different they exhibit essentially the same set of scaling laws.”** 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.es/books?id=3OwpPgGv29UC&lpg=PA7&hl=pt-PT&pg=PA93&output=embed" width=500 height=500></iframe>
+
+
+Humans are great at intra-specific design, in reality, is a design bias - the human perspective - so understanding non-human systems takes us out of a comfort bubble. We have been operating only at our scale excluding access to other forms of life. Being aware that we are operating on different scales, might just be the first step. That is where empathy and inter-species collaboration comes in.
