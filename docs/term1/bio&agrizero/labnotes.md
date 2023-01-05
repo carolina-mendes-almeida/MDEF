@@ -7,7 +7,7 @@ hide:
 
 **Lab Notes**
 
-Here you can find the recipes/protocol used for the Biomaterials and Absorbance (A) exercises. My work group in class was: Wen, Paige, Seher; Caglar and Marielle.
+Here you can find the recipes/protocol used for the Biomaterials and Absorbance (A) exercises. My work group in class was: Wen, Paige, Seher; Çağlar and Marielle.
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4141%;
