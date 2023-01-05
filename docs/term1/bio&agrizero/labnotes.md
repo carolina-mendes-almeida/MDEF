@@ -7,7 +7,7 @@ hide:
 
 **Lab Notes**
 
-Here you can find the recipes/protocol used for the Biomaterials and Absorbence exercises. My work group in class was: Wen, Paige, Seher; Caglar and Marielle.
+Here you can find the recipes/protocol used for the Biomaterials and Absorbance (A) exercises. My work group in class was: Wen, Paige, Seher; Caglar and Marielle.
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4141%;
@@ -17,4 +17,4 @@ Here you can find the recipes/protocol used for the Biomaterials and Absorbence 
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFNzPj46hw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFNzPj46hw&#x2F;view?utm_content=DAFNzPj46hw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The fight for interspecific and intraspecific</a>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFNzPj46hw&#x2F;view?utm_content=DAFNzPj46hw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">BioLab Protocols</a>
