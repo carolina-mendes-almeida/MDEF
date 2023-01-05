@@ -20,3 +20,5 @@ Life is carbon-based. The first major transition was the leap from the molecular
 Complex systems were introduced by Nuria through Aristotle's quote: "The whole is more than the sum of its parts”. A few days before this class, Paige (one of our colleagues) recommended me an Invisibilia podcast episode about biological scales and it adds a new branch to this idea of complex systems, that as a self-proclaimed cross-pollinator, can be very helpful in developing new approaches to design.
 
 The image represents side by side a scale in meters and the respective areas of knowledge. These worlds are all connected and full of opportunities they are just operating on different scales.
+
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.es/books?id=3OwpPgGv29UC&lpg=PA7&hl=pt-PT&pg=PA93&output=embed" width=500 height=500></iframe>
