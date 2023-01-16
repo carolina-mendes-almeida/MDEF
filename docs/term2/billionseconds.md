@@ -77,10 +77,24 @@ These were the different proposed exercises by Andres they were set at different
 **- A Day in My Post-Technological Life (2050s)**
 What does a day in 2050 look like for the future? It is interesting how powerful the way we see and understand our future impacts so much of our present. The day I am describing would look so different if I was a refugee, at war, or fighting for basic human rights.
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="[https://www.canva.com/design/DAFXdkC9BZI/view?embed](https://www.canva.com/design/DAFXdkC9BZI/view?embed)" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="[https://www.canva.com/design/DAFXdkC9BZI/view?utm_content=DAFXdkC9BZI&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFXdkC9BZI/view?utm_content=DAFXdkC9BZI&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">Minimalist Beige Cream Brand Proposal Presentation</a>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXdkC9BZI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXdkC9BZI&#x2F;view?utm_content=DAFXdkC9BZI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Minimalist Beige Cream Brand Proposal Presentation</a>
 
 **- Opening your (intercitizen) time capsules**
 Within a group, we told the stories that embraced degrowth and would be played out in the 2050s. The prompt was that a Time capsule of 2023 would be opened in 2050 and the differences between now and then translated principles of critical hope, intergenerational solidarity, interspecies love, and Honourable harvest principles.
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="[https://www.canva.com/design/DAFXjrAtyJQ/view?embed](https://www.canva.com/design/DAFXjrAtyJQ/view?embed)" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="[https://www.canva.com/design/DAFXjrAtyJQ/view?utm_content=DAFXjrAtyJQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFXjrAtyJQ/view?utm_content=DAFXjrAtyJQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">Food and snacks are mainly from insects and algae</a>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXjrAtyJQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXjrAtyJQ&#x2F;view?utm_content=DAFXjrAtyJQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Food and snacks are mainly from insects and algae</a>
 
