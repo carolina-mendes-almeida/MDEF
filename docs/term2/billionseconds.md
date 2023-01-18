@@ -10,6 +10,7 @@ hide:
 When we look into the future what do you see? Who is working with the future? Who is bringing radical love, kindness and hope to physical and digital spaces? How these universes collide and reflect our ways is signaling what kind of world we are building. Andres Colmenares, the co-founder of The Billion Second Institute, introduced the class to new terminologies and concepts like Critical Hope. This week felt like we were alchemists trying to bend time and form, even though overall impossible (depending on your lenses) the exercise opened our imagination to other ways of knowing and being.
 
 *“A call to imagine-create the conditions for the genesis of alternative, relevant and interrelated schools of (inter)thought, (inter)action and (inter)feeling. A call to enable a long-term paradigm shift towards more centered collective perceptions, imaginations and decision-making practices in everyday life.” - Andrés, Branch Magazine*
+![critical images](../../images/billion/slide1.png)
 
 
 **Keywords**
@@ -64,7 +65,7 @@ For the past weeks I have been digging into Futures Literacy, and here it is aga
 *“For the purposes of developing Futures Literacy as a skill it is helpful to distinguish between ‘the future’ and ‘futures’: ‘The future’ is a time later than now that does not yet exist and ‘futures’ are the contents humans place into that ‘later than now’ temporal frame.” - Nicolas A. Balcom Raleigh*
 
 I will also place here the introduced notion of degrowth. Something we have heard before but in a different frame of mind, some of those contexts tell a fantasy of “green growth”. Fairytales of how we can keep this economical rhythm with a sustainable business. Greenwashed capitalism... Growth Domestic Product (GDP) has to be constantly growing, unnatural and contra-natural processes that have material repercussions on the exploitation of resources. Degrowth theory defies that by valuing healthier and sustainable lifestyles that do not have their center economic growth but rather celebrate ecology, equity and intercitizenship.
-
+![critical images](../../images/billion/slide2.png)
 
 ![capsules images](../../images/billion/banner5.png)
 These were the different proposed exercises by Andres they were set at different stages during the week helping us imagine new worlds, knowledge and oneness.
@@ -92,4 +93,3 @@ Within a group, we told the stories that embraced degrowth and would be played o
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXjrAtyJQ&#x2F;view?utm_content=DAFXjrAtyJQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Food and snacks are mainly from insects and algae</a>
-
