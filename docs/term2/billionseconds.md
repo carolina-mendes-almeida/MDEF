@@ -17,8 +17,7 @@ When we look into the future what do you see? Who is working with the future? Wh
 ***Water, More-than-human, Futures, Critical Hope, Justice, Intercitizenship, Intersectionality***
 
 
-**(Energy) Manifesto: “Be Water, my friend”**
-
+![energy images](../../images/billion/banner1.png)
 We entered the classroom for the first time in 3 weeks and soothing music floated around. Andres's first invitation: “Be like water”. He showed us a video of Bruce Lee (video below), which I was already familiar with but never thought of applying to design thinking. The crisis of the rigidity of the mind is like fog, and to see clearly during this week we had to take on water qualities, particularly its shapeshifting characteristics. To be water is all we needed to successfully integrate new concepts, futures and realities and apply them to our way of knowing and being.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJMwBwFj5nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -32,8 +31,7 @@ Between discussions and an introduction to IAM - The Billion Second Institute, w
 *“To experience liberation, one must develop their critical consciousness so that they can learn to read the world, understand systematic and structural reasons for inequality - and imagine and then work toward - liberation for all” - Dr. Kari in Critical Hope*
 
 
-**Critical Everything**
-
+![critical images](../../images/billion/banner2.png)
 What is Everything? During this week, a billion seconds (30 years) was everything. A single unit of time, a second, also took on the meaning of everything. Anything is everything. Everything is anything. What a silly dilemma, but it makes sense, especially for processes - Reminder: Be water -.
 
 *The process is fundamental: the river is not an object, but a continuing flow; the sun is not a thing, but an enduring fire. Everything is a matter of process, of activity, of change (panta rhei) – Nicholas Rescher*
@@ -45,8 +43,7 @@ The IAM manifesto uses the Wikipedia definition of everything:
 During our many discussions, we tried to explore concepts like Critical Ecology and Intersectionality.
 
 
-**Reimagining time**
-
+![critical images](../../images/billion/banner3.png)
 With “everything” in mind the sense of time gets bendy or bendable by our imaginations. So, what would the Carolina from 2054, say to the present (2023) Carolina?
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
@@ -61,8 +58,7 @@ With “everything” in mind the sense of time gets bendy or bendable by our im
 The constructed linear time vs The ever-spinning spiral. This dichotomy is an “s” problem, the small difference between “future” and “futures”, that blooms and welcomes so much more diversity and possibilities.
 
 
-**Escaping the Vortex through Futures Literacy**
-
+![vortex images](../../images/billion/banner4.png)
 For the past weeks I have been digging into Futures Literacy, and here it is again! It is seeking me as much as I am seeking it.
 
 *“For the purposes of developing Futures Literacy as a skill it is helpful to distinguish between ‘the future’ and ‘futures’: ‘The future’ is a time later than now that does not yet exist and ‘futures’ are the contents humans place into that ‘later than now’ temporal frame.” - Nicolas A. Balcom Raleigh*
@@ -70,8 +66,7 @@ For the past weeks I have been digging into Futures Literacy, and here it is aga
 I will also place here the introduced notion of degrowth. Something we have heard before but in a different frame of mind, some of those contexts tell a fantasy of “green growth”. Fairytales of how we can keep this economical rhythm with a sustainable business. Greenwashed capitalism... Growth Domestic Product (GDP) has to be constantly growing, unnatural and contra-natural processes that have material repercussions on the exploitation of resources. Degrowth theory defies that by valuing healthier and sustainable lifestyles that do not have their center economic growth but rather celebrate ecology, equity and intercitizenship.
 
 
-**The 2050s Time Capsules**
-
+![capsules images](../../images/billion/banner5.png)
 These were the different proposed exercises by Andres they were set at different stages during the week helping us imagine new worlds, knowledge and oneness.
 
 **- A Day in My Post-Technological Life (2050s)**
