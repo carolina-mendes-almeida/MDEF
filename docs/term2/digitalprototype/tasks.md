@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-### Assignements
+### Assignments
 
 [How Arduino is open-sourcing imagination | Massimo Banzi - YouTube](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 
