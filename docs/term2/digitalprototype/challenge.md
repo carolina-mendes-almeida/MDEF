@@ -48,3 +48,5 @@ This is when I started to feel guilty. The first micro-challenge was coming to a
 As we passed through these obstacles we got to see our Museum of Colonization come to life!
 
 This was a more descriptive and personal view on the project but if you would like to know the step by step and what were our knowledge sources and code used, please click on the following links:
+- GitHub: https://github.com/stella-dikmans/MOC/blob/main/README.md
+- Notion: https://hickory-polonium-fd1.notion.site/Marielle-Stella-Carolina-MDEF-22-23-34fdfc848ec44d93bae61fdf263d6c88
