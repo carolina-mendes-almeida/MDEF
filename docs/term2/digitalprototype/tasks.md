@@ -65,6 +65,7 @@ I was excited about the laser cutting! I did use the small laser cut last week d
 4. passed it to Rhino
 
 Once I passed the file to Rhino, the lines were duplicated and “crooked”. With the help of Ahmed, I then traced the patterns and transformed them into 2D drawings and joined polylines. These were the results:
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -73,6 +74,7 @@ Once I passed the file to Rhino, the lines were duplicated and “crooked”. Wi
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaX9KFkUI&#x2F;watch?utm_content=DAFaX9KFkUI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Laser cut patterns</a>
+
 
 
 ### Assignment Week 2
@@ -84,24 +86,24 @@ This week we had to learn how to scan, 3D print and make a network (electronics)
 Victor starts by asking: “What is a network?”. The class is shy, it sounds like a tricky question… We are constantly networking but not in the way Victor intended… Someone answers, “connections” and I though something similar. But, in the electronic sphere “is all about copies so one can receive what others have, creating a way of communicating between each other. Historically we felt the need to create networks to move information from one place to another. Basically, to do the same thing in parallel through copies.” 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 83.8298%;
-padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-border-radius: 8px; will-change: transform;">
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-src="[https://www.canva.com/design/DAFb4fRK8ho/watch?embed](https://www.canva.com/design/DAFb4fRK8ho/watch?embed)" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb4fRK8ho&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
-<a href="[https://www.canva.com/design/DAFb4fRK8ho/watch?utm_content=DAFb4fRK8ho&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFb4fRK8ho/watch?utm_content=DAFb4fRK8ho&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">jumps</a>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb4fRK8ho&#x2F;watch?utm_content=DAFb4fRK8ho&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">jumps</a>
 
 Victor proceeded to give us a class of how information jumps, bounces and can even be encrypted through making these leaps more frequent. We talked about the undersea optic cables, how the jumps consume greats amounts of energy, the historic value of networks and how that is linked to current ways of communicating ex. WhatsApp. And by the end of the class, as a Task we had to do our own Network so we could communicate with each other.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
-padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-border-radius: 8px; will-change: transform;">
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-src="[https://www.canva.com/design/DAFaxDUv_TE/watch?embed](https://www.canva.com/design/DAFaxDUv_TE/watch?embed)" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaxDUv_TE&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
-<a href="[https://www.canva.com/design/DAFaxDUv_TE/watch?utm_content=DAFaxDUv_TE&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFaxDUv_TE/watch?utm_content=DAFaxDUv_TE&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">Copy of object for the aid of ecological restoration</a> by Carolina Almeida
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaxDUv_TE&#x2F;watch?utm_content=DAFaxDUv_TE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of object for the aid of ecological restoration</a>
 
 # **Task 4.1 -** Scan & 3D print
 
