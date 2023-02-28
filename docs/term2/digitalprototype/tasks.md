@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-### Assignments
+### Assignment Week 1
 
 [How Arduino is open-sourcing imagination | Massimo Banzi - YouTube](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 
@@ -73,3 +73,43 @@ Once I passed the file to Rhino, the lines were duplicated and “crooked”. Wi
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaX9KFkUI&#x2F;watch?utm_content=DAFaX9KFkUI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Laser cut patterns</a>
+
+
+### Assignment Week 2
+
+This week we had to learn how to scan, 3D print and make a network (electronics). We did the Network class with Victor and the 3D & scan class with Eduardo. I am glad their enthusiasm is contagious because these themes are outside my bubble of interest, of course they are connectable and I am sure future me will have make sense of it all for the 2nd Microchallenge, but for now I trust their energetic way of sharing knowledge.
+
+# Task 4.0 - Networking
+
+Victor starts by asking: “What is a network?”. The class is shy, it sounds like a tricky question… We are constantly networking but not in the way Victor intended… Someone answers, “connections” and I though something similar. But, in the electronic sphere “is all about copies so one can receive what others have, creating a way of communicating between each other. Historically we felt the need to create networks to move information from one place to another. Basically, to do the same thing in parallel through copies.” 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 83.8298%;
+padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+border-radius: 8px; will-change: transform;">
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+src="[https://www.canva.com/design/DAFb4fRK8ho/watch?embed](https://www.canva.com/design/DAFb4fRK8ho/watch?embed)" allowfullscreen="allowfullscreen" allow="fullscreen">
+</iframe>
+</div>
+<a href="[https://www.canva.com/design/DAFb4fRK8ho/watch?utm_content=DAFb4fRK8ho&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFb4fRK8ho/watch?utm_content=DAFb4fRK8ho&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">jumps</a>
+
+Victor proceeded to give us a class of how information jumps, bounces and can even be encrypted through making these leaps more frequent. We talked about the undersea optic cables, how the jumps consume greats amounts of energy, the historic value of networks and how that is linked to current ways of communicating ex. WhatsApp. And by the end of the class, as a Task we had to do our own Network so we could communicate with each other.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+border-radius: 8px; will-change: transform;">
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+src="[https://www.canva.com/design/DAFaxDUv_TE/watch?embed](https://www.canva.com/design/DAFaxDUv_TE/watch?embed)" allowfullscreen="allowfullscreen" allow="fullscreen">
+</iframe>
+</div>
+<a href="[https://www.canva.com/design/DAFaxDUv_TE/watch?utm_content=DAFaxDUv_TE&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFaxDUv_TE/watch?utm_content=DAFaxDUv_TE&utm_campaign=designshare&utm_medium=embeds&utm_source=link)" target="_blank" rel="noopener">Copy of object for the aid of ecological restoration</a> by Carolina Almeida
+
+# **Task 4.1 -** Scan & 3D print
+
+First and foremost, 3D printing is an additive way of manufacturing that can save lots of material if we are thoughtful in our design. Jackpot! Some would say, yet the industry still relays on industrial design. Eduardo, gave us an extensive class on the history, machines, file types&formats, file preparation, softwares, slicing and gave a panoply of examples for each case that illustrated the different uses, applications, and emerging technologies being applied in this field. Following all this technical and dense theory the class then moved to the 3D machine room to see and touch the different types of materials and how they are stored in the FabLab. During these classes we are normally mixed with FabAcademy students so we got to recall some of the concepts we talked about during mixing materials for 3D printing with biomaterials, a rare occurrence... This is actually really good as repetition does help me get the into the flow of things, especially in environment where repetition is sometimes rare as we learn a new softwares, technics, philosophies, technologies, etc. on a daily basis. This was such an intense class that I actually do not have pictures of it. Yet, there is this great video of FabLab that “explains to the T”, how to use the machines in our lab. 
+
+This was the proposal: “Do a scan of an object and 3D print it or 3D print an object and scan it”. A little bit of context, because I do tend to overthink - after some talks with Amanda and Wen I came to realize something I did not see before. I realized that MDEF creates a trash and we do have a pile of “guilty waste” in our classroom that we hope we’ll use in some of our projects. So, if I was to create something I wanted it to be useful. As funny as it sounds, I found this wonderful cutter for cat food. It is an issue in my parents house. When I am back home and have to feed the cat we never give the whole can of food just a third which is a bit of a struggle (and it should not be!), so when I found a tool that would split the food in 3 parts I knew I wanted to printed it. Useful and Practical that was my reasoning behind it.
+
+(still need to print my object)
+
+- 3D print process
+- Scan Process
