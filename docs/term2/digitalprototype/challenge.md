@@ -54,7 +54,7 @@ As we passed through these obstacles we got to see our Museum of Colonization co
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbCUA-Hp8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbCUA-Hp8&#x2F;view?utm_content=DAFbCUA-Hp8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Why?</a> by Carolina Almeida
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbCUA-Hp8&#x2F;view?utm_content=DAFbCUA-Hp8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 This was a more descriptive and personal view on the project but if you would like to know the step by step and what were our knowledge sources and code used, please click on the following links:
 
