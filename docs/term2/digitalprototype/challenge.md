@@ -47,6 +47,17 @@ This is when I started to feel guilty. The first micro-challenge was coming to a
 
 As we passed through these obstacles we got to see our Museum of Colonization come to life!
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbCUA-Hp8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbCUA-Hp8&#x2F;view?utm_content=DAFbCUA-Hp8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Why?</a> by Carolina Almeida
+
 This was a more descriptive and personal view on the project but if you would like to know the step by step and what were our knowledge sources and code used, please click on the following links:
+
 - GitHub: https://github.com/stella-dikmans/MOC/blob/main/README.md
+
 - Notion: https://hickory-polonium-fd1.notion.site/Marielle-Stella-Carolina-MDEF-22-23-34fdfc848ec44d93bae61fdf263d6c88
