@@ -111,10 +111,14 @@ First and foremost, 3D printing is an additive way of manufacturing that can sav
 
 This was the proposal: “Do a scan of an object and 3D print it or 3D print an object and scan it”. A little bit of context, because I do tend to overthink - after some talks with Amanda and Wen I came to realize something I did not see before. I realized that MDEF creates a trash and we do have a pile of “guilty waste” in our classroom that we hope we’ll use in some of our projects. So, if I was to create something I wanted it to be useful. As funny as it sounds, I found this wonderful cutter for cat food. It is an issue in my parents house. When I am back home and have to feed the cat we never give the whole can of food just a third which is a bit of a struggle (and it should not be!), so when I found a tool that would split the food in 3 parts I knew I wanted to printed it. Useful and Practical that was my reasoning behind it.
 
-(still need to print my object)
-
-- 3D print process
-- Scan Process
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcbwS-YDk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcbwS-YDk&#x2F;view?utm_content=DAFcbwS-YDk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 
 ## **Task 5.1 - Recap with Oscar**
