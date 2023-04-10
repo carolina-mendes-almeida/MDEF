@@ -14,7 +14,7 @@ hide:
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFU58VgTIY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFU58VgTIY&#x2F;view?utm_content=DAFU58VgTIY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFU58VgTIY&#x2F;view?utm_content=DAFU58VgTIY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"
 
 After our first Future Talk on Autobiographic Design I can see how this approach is tied to everything else, and every Future Talk. How can one individual work with local knowledge and resources without it being an autobiography of themselves, the landscape, and the ecologic reality of that location? How can one embody, and acknowledge their privileges and work to dismantle systems of oppression without a deep sense of themselves, their surroundings and History? Can we augment our abilities, states of being, and biological performance without mapping ourselves? To do first-person design is to shape ourselves and our experiences first and foremost before shaping the world, and that is fair, that is right.
 
