@@ -24,6 +24,7 @@ We randomly picked the hair clip (object to track), and the group was not the mo
 
 I do think my role played an influence during the exercise. Firstly, I am human and highly biased by all my experiences. I was reluctant to start thinking about a hair clip and how that could help in any way my projects and interventions, but as I mentioned before there is something valuable in learning how to structure your brainstorms specially when you have to map so much it helps you start to think and act upon the subject at hands without getting too overwhelmed. I also found it helpful to move from overthinking into knowing, from data online and information into actionable and utilitarian knowledge.
 
+![image asset framing](../../images/dd/justice2.jpg)
 
 ***Reflection on the 13/04 - Reflection Tree***
 
@@ -54,3 +55,5 @@ Because half of the activity was centered in our own personal projects when the 
 
 **Interactions**
 *Did the role I played influenced my opinion, in other words, how my bias influenced my positioning*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O04CuqStRvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
