@@ -44,6 +44,7 @@ Because half of the activity was centered in our own personal projects when the 
 
 
 ***Reflection on the 14/04 - Final Presentation***
+![image justice poster](../../images/dd/justice.jpg)
 
 **Learning Skills**
 *Skills that can be translated into something useful?*
