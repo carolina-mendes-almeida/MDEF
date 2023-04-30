@@ -22,9 +22,21 @@ During Victor's class, we were introduced to an exciting new world: Blender as a
 Ton Roosendaal, the founder of Blender, is a fascinating and funny individual. In his 2022 Blender Conference introduction, he discussed the crises facing humanity in the coming years, and how that involves for example, human interfaces, especially 3D softwares as the building blocks of those alternative worlds (ex. meta verse and AI 🥲)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gsGkvF5-i-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+As a more practical exercise we tried to control a blender object with a phone, and control a LED strip with a made up interruptor on blender! 
+
 In order to use blender you have to be quite patient as it is not as intuitive as other softwares, at least those i am more used to. Victor gave us some helpful tips on how to use phyton to better manipulate Blender and master this software. This was quite an intense class, hard to grasp, despite the challenges of using Blender, I would like to become proficient enough to create small animations, but first I have to prioritize other projects that are at the moment more alligned with want I would like to develop 🥰
 
 ![blender photo](../../images/prototype/blender.png)
 
 
 ***Third task: Get to know Live coding as a human interface***
+
+I found the examples shared by Citlali and Xavi in class to be incredibly interesting and strange. Xavi provided a general introduction to the best tools and frameworks used in human interfaces, while Citlali demonstrated how our bodies can serve as enriching tools for exploring technology through artistic experimentation.
+
+One particularly practical exercise we engaged in was live coding with Citlali. This was an entirely new experience for me, and it was clear to me that there are entire universes of possibilities within the realm of technology. Anything is possible starts to seem like an understatement, we are only bounded by our imagination.
+![hydra photo](../../images/prototype/hydra.png)
+
+For the live coding exercise, we utilized Hydra, which is a visually oriented programming language that allows for real-time collaboration and experimentation. It was thrilling to see the results of our coding efforts manifesting in real-time on the screen! The colors and shapes were enticing and augmented the experience of coding and listening to music.
+
+Citlali and Xavi's expertise and enthusiasm were infectious, and I feel inspired to continue exploring and learning more about the possibilities that these tools and frameworks have to offer.
+
