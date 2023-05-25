@@ -16,13 +16,15 @@ Becuase we are already engaged in a collaboration with [Explorins](https://www.e
 Inclusivity and funding were significant aspects of the future of our project. We wanted to make the project more appealing to BIPOC individuals and sought to involve 3D artists through a call for artwork contributions and a in person workshop, to maybe turn ceramic pieces into 3D objects. This ios all things we are considering together with Angela and Pol form the Explorins team and something we could not fit into a weeks work but rather a long term. The MOC for us is a marathon and no longer a 9 month race. Our collaboration with EXPLORINS and our dedicated efforts to secure funding would ensure that the project is extended beyond our graduation—a prospect that excited and motivated us greatly. 
 
 On the second day, after reavaluating our goals and timelines, we made significant progress by analyzing our existing tour and translating it into the Explorins platform. The map we created symbolizes a milestone achieved. 
+
 ![last microchallenge picture](../../images/prototype/last1.jpg)
 ![last microchallenge picture](../../images/prototype/last2.jpg)
 
 With the map uploaded (but not yet online for general public) we turned our focus towards enhancing the fun and interactive elements of the tour. We encountered challenges with the MOC prototypes, such as the stamp button and ticket machine, as they were still in early development and not suitable for the Festival tour. In light of this, we decided to adopt a low-tech approach and create a sticker book. This book would serve as a personal space for individuals to record their thoughts, notes, and feelings—a tangible and individualized way for them to engage with the tour and leave their own mark. We dedicated time to perfecting the cover of the sticker book, experimenting with different techniques to achieve a marble acrylic paint effect. 
+
 ![last microchallenge picture](../../images/prototype/last3.png)
 
-![last microchallenge gif](../../images/prototype/last.gif)
+![last microchallenge gif](../../images/last.gif)
 
 Within the pages of the sticker book, we aim to create a thought-provoking and enjoyable experience. Gentle prompts, interesting facts, and playful stickers invite participants to delve into their thoughts and explore their inner world while they participate on the MOC tour around Barcelona. It is a space where meaningful dialogue can emerge, fostering connections and understanding.
 
