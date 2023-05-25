@@ -56,7 +56,9 @@ nav:
           - Research Trip: term2/trip.md
       - Term 3:
           - Distributed Design: term3/distributed.md
-          - Prototyping for Design: term3/prototype2/robot.md
+          - Prototyping for Design:
+            - Robots: term3/prototype2/robot.md
+            - Last MicroChallenge: term3/prototype2/last.md
           - Design Ethics: term3/ethics.md
 
 
