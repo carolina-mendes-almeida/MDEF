@@ -8,7 +8,7 @@ hide:
 
 # Alternative presents to emergent futures - Understating your emerging profiles and roles.
 
-![altern poster](../images/dd/alternposter.png)
+![altern poster](../images/alternposter.png)
 
 I have been fortunate to learn from a diverse range of sources who have instilled in me the realization that individual design is no longer sufficient. We are intricately connected to the broader web of our world. I humbly acknowledge that I am not an expert in all things but I care for them, I care about everything, because I care about somethings and thus things are not isolated. Collaboration, cross-disciplinary approaches, and collective embodiment are essential for addressing the complexities we face. I firmly embrace the concept that collaboration and sharing communal knowledge are paramount because everything is interconnected.
 
