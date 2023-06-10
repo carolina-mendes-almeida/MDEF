@@ -6,7 +6,21 @@ hide:
 # Design Studio III
 ***The page dedicated to Design Studio tasks***
 
-# Alternative Presents
+# Alternative presents to emergent futures - Understating your emerging profiles and roles.
+
+![altern poster](../images/dd/alternposter.png)
+
+I have been fortunate to learn from a diverse range of sources who have instilled in me the realization that individual design is no longer sufficient. We are intricately connected to the broader web of our world. I humbly acknowledge that I am not an expert in all things but I care for them, I care about everything, because I care about somethings and thus things are not isolated. Collaboration, cross-disciplinary approaches, and collective embodiment are essential for addressing the complexities we face. I firmly embrace the concept that collaboration and sharing communal knowledge are paramount because everything is interconnected.
+
+My projects aim to reflect that same realization:
+
+- The **Museum of Colonization (MOC)** aims to bring attention to the hidden, subconscious, and buried narratives of colonial histories in cities through engaging and enjoyable experiences.
+- **Ecofeminist Futures** involves listening, learning, and facilitating the deconstruction of the existing eco-apartheid state through artistic expression and participatory design with women from the SWANA region.
+- The **Interspecies Tarot** is a tool for exploring profound questions, offering a means to connect with alternative worlds within our own and co-design with other living beings.
+
+I have shifted perspectives (multiple times a day), and the grounding of my identity as a designer is based on my expansive, ever-evolving moral values. The thesis I am writing and the path I am building are always in transformation. I am trying to be at peace with that.
+
+I would now (June, 2023) say that: I am Carolina Almeida (she/her), a Portuguese-Angolan and a member of the MDEF class of 22/23. With a background in Environmental Biology and Science Democratization, I now work as a Designer dedicated to caring for our Interconnected World. I am drawn to topics such as Non-Western Centric Futures and Interspecies Collaboration. Throughout my time in MDEF, I have developed Ecofeminism workshops, artifacts for decolonization, tools for Interspecies Collaboration, and frameworks for creating transformative experiences that foster connections with non-human entities.
 
 
 
