@@ -4,6 +4,7 @@ hide:
 ---
 
 # Decentralized Autonomous Organizations
+***Keywords: Digital formats and protocols; Bitcoin, NFTs, blockchain; Crypto Trends; Emerging technologies; Decentralized systems***
 
 First class was with Guillem, and we disrupted what our view on digital formats and protocols. Guillem said: “*List at first thing that comes to mind when you hear the word bitcoin, nfts, blockchain”.*  They seemed disconnected from my personal interests. I couldn't help but think, "Aren't these just trends created by a specific group, primarily affluent white cisgender men, aiming to channel investment money into their own pockets?" However, as the classes progressed, my perspective on these emerging technologies began to shift.
 ![guillem gif](../../images/g1.gif)
