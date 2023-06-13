@@ -90,10 +90,10 @@ These are the main three ways of drifting I ended up using for different project
 
 - We set a goal to have a full deck of cards by the end of the year. The ultimate goal is to publish the tarot deck online (open-source), enabling people to create their own cards and have a version that can be purchased.
 
-## **Activity 2.2 - How? | MOC**
+## **Activity 2.1 - How? | MOC**
 
 We will adopt a **collective/network model** as a short-term and feasible approach to work with our current energy. However, our long-term goal is to establish ourselves as a non-profit organization. The MOC serves as a space for envisioning alternative futures, reflecting on the past, fostering joy and connections. It caters to those experiencing a sense of diasporic longing and operates as a non-capitalistic group dedicated to promoting the work of BIPOC individuals in various creative areas around culture. Our objective is to transform the discourse around diversity into a supportive platform for BIPOC individuals, prioritizing their needs over mere panels and discussions, and creating inclusive spaces that celebrate joy and welcome the manifold.
 
-## **Activity 2.1 - How? | INTERSPECIES TAROT**
+## **Activity 2.2 - How? | INTERSPECIES TAROT**
 
 The Interspecies Tarot aligns more closely with a **documentation/guide model**. It serves as a curated knowledge archive, drawing from the realms of sciences, humanities, arts, and indigenous wisdom. It is thoughtfully compiled with references and bibliographic sources for further consultation. This resource is designed to assist anyone working with other species, enabling them to navigate and better understand their chosen non-human collaborators. As we strive to gather this knowledge through open-source documents and research, it is obvious that our Tarot deck should also be made available as an open-source document, promoting accessibility and encouraging contributions from the community.
