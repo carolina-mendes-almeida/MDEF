@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Criticaç Transfeminism Design
+# Critical Transfeminism Design
 
 Again... This might be my favorite class (this it may be hard to believe, considering I've said that about so many classes before).
 
