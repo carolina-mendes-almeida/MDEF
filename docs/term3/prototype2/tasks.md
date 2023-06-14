@@ -27,14 +27,14 @@ A small note: Ton Roosendaal, the founder of Blender, is a fascinating and funny
 
 ***Third task: Blender as Interface***
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlyXM3e8c&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlzV-sVWw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlyXM3e8c&#x2F;watch?utm_content=DAFlyXM3e8c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blender as a interface</a> by Carolina Almeida
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlzV-sVWw&#x2F;view?utm_content=DAFlzV-sVWw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Interface_Blender</a> by Carolina Almeida
 
 In order to use blender you have to be quite patient as it is not as intuitive as other softwares, at least those i am more used to. Victor gave us some helpful tips on how to use phyton to better manipulate Blender and master this software. This was quite an intense class, hard to grasp, despite the challenges of using Blender, I would like to become proficient enough to create small animations, but first I have to prioritize other projects that are at the moment more aligned with want I would like to develop 🥰
 
