@@ -16,20 +16,23 @@ To automate a process using a robot like ABB 140, the user must do it with the R
 ![robot gif 2](../../images/prototype/robot2.gif)
 
 
-***Second task: Get to know Blender as Interface***
-During Victor's class, we were introduced to an exciting new world: Blender as an interface. Blender is a powerful, open-source software that allows creative people to create amazing 3D animations without the constraints of shareholders, ownership, or a capitalistic focus on growth and profit.
+***Second task: Get to know Blender***
 
-Ton Roosendaal, the founder of Blender, is a fascinating and funny individual. In his 2022 Blender Conference introduction, he discussed the crises facing humanity in the coming years, and how that involves for example, human interfaces, especially 3D softwares as the building blocks of those alternative worlds (ex. meta verse and AI 🥲)
+During Victor's first class, we were introduced to an exciting new world: Blender as an interface. Blender is a powerful, open-source software that allows creative people to create amazing 3D animations without the constraints of shareholders, ownership, or a capitalistic focus on growth and profit.
+
+The discussion on the best 3D modeling tool often turns into a personal preference battle, but it's important to consider other factors when choosing a tool. Tools are a medium to get to a goal, but in today’s world they show so much, and reflect so much of the world we live in. Payed softwares and subscriptions can be a obstacle for so many to learn and be proeficient in creating digital things. The tools we use shape our work and creative process, and the design of a tool deeply influences how we approach our ideas. Commercial tools prioritize profit in their design decisions, while community-driven open-source tools like Blender offer more potential for diverse paradigms and allow us to modify the tool to better suit our needs. As Victor says, we get to know the tool, to understand it and truly become proeficient in using it, as we understand its logic, principles, history and we become part of a community that helps each other.
+
+A small note: Ton Roosendaal, the founder of Blender, is a fascinating and funny individual. In his 2022 Blender Conference introduction, he discussed the crises facing humanity in the coming years, and how that involves for example, human interfaces, especially 3D softwares as the building blocks of those alternative worlds (ex. meta verse and AI 🥲)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gsGkvF5-i-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-As a more practical exercise we tried to control a blender object with a phone, and control a LED strip with a made up interruptor on blender! 
+***Third task: Blender as Interface***
 
-In order to use blender you have to be quite patient as it is not as intuitive as other softwares, at least those i am more used to. Victor gave us some helpful tips on how to use phyton to better manipulate Blender and master this software. This was quite an intense class, hard to grasp, despite the challenges of using Blender, I would like to become proficient enough to create small animations, but first I have to prioritize other projects that are at the moment more alligned with want I would like to develop 🥰
+In order to use blender you have to be quite patient as it is not as intuitive as other softwares, at least those i am more used to. Victor gave us some helpful tips on how to use phyton to better manipulate Blender and master this software. This was quite an intense class, hard to grasp, despite the challenges of using Blender, I would like to become proficient enough to create small animations, but first I have to prioritize other projects that are at the moment more aligned with want I would like to develop 🥰
 
 ![blender photo](../../images/prototype/blender.png)
 
 
-***Third task: Get to know Live coding as a human interface***
+***Fourth task: Get to know Live coding as a human interface***
 
 I found the examples shared by Citlali and Xavi in class to be incredibly interesting and strange. Xavi provided a general introduction to the best tools and frameworks used in human interfaces, while Citlali demonstrated how our bodies can serve as enriching tools for exploring technology through artistic experimentation.
 
